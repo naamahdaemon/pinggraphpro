@@ -1,5 +1,6 @@
 # Ping Graph Pro
-
+![Dark_Theme](img/dark_theme.png)
+![Light_Theme](img/light_theme.png)
 A modern desktop ping monitor built with **Python**, **Tkinter**, and **Matplotlib**.
 
 Ping Graph Pro lets you monitor network latency in real time through a clean UI, a live graph, dark/light themes, and a custom borderless window with manual drag, resize, minimize, and maximize support.
